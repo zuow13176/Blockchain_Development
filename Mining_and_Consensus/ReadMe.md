@@ -1,2 +1,2 @@
-## Read Me
-# Three Dice Decentralized Consensus Algorithm
+# Read Me
+## Three Dice Decentralized Consensus Algorithm
